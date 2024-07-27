@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/user
+Content-Type: application/json
+
+{
+  "name": "Dev Patel",
+  "email": "devp@gmail.com",
+  "password": "dev1234",
+  "role": "user"
+}
